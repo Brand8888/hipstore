@@ -1,8 +1,9 @@
-Angular Classifieds
+# Angular classifieds
 
 What is it?
 - Hipstore is a simple classified web application using AngularJS and some of its module hooked up to Firebase.
 - Entire site is a Single Page Application (SPA)
+- Website : https://brand8888.github.io/hipstore/#/classifieds
 
 Angular modules used:
   - Angular-animate | Applied some animation to the classified card when users search/filter an item.
